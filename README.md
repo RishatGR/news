@@ -1,2 +1,2 @@
 # news
-news
+Перейдите на master ветку

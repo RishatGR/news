@@ -7,3 +7,4 @@
 # python3 manage.py startapp accounts
 # python3 manage.py runserver - запуск проекта
 # python3 manage.py migrate - миграцмя установленных приложений
+# python3 manage.py makemigrations - создание миграций
